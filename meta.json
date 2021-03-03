@@ -1,18 +1,17 @@
 {
   "versions": [
     {
-      "version": "0.01",
-      "url": "",
+      "version": "001",
       "date": 1577884983
     },
     {
-      "version": "0.14",
-      "url": "",
+      "version": "002",
+      "url": "version_002.zip",
       "date": 1613392200
     }
   ],
   "news": [{
-    "title": "Some News",
+    "title": "No New News",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero volutpat sed cras. Iaculis eu non diam phasellus vestibulum lorem sed. Condimentum mattis pellentesque id nibh tortor id.",
     "date": 1613392200
   }]
