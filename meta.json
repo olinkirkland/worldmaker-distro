@@ -2,13 +2,18 @@
   "versions": [
     {
       "version": "001",
-      "url": "https://olinkirk.land/worldmaker-distro/version/001.zip",
+      "url": "https://olinkirk.land/worldmaker-distro/versions/001.zip",
       "date": 1614605715000
     },
     {
       "version": "002",
-      "url": "https://olinkirk.land/worldmaker-distro/version/002.zip",
+      "url": "https://olinkirk.land/worldmaker-distro/versions/002.zip",
       "date": 1614800115000
+    },
+    {
+      "version": "003",
+      "url": "https://olinkirk.land/worldmaker-distro/versions/002.zip",
+      "date": 1614887455000
     }
   ],
   "news": [{
