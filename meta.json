@@ -1,29 +1,90 @@
 {
   "versions": [
     {
-      "version": "001",
+      "version": "1",
       "url": "https://olinkirk.land/worldmaker-distro/versions/001.zip",
       "date": 1614605715000
     },
     {
-      "version": "002",
+      "version": "2",
       "url": "https://olinkirk.land/worldmaker-distro/versions/002.zip",
       "date": 1614800115000
     },
     {
-      "version": "003",
+      "version": "3",
       "url": "https://olinkirk.land/worldmaker-distro/versions/002.zip",
       "date": 1614887455000
     },
     {
-      "version": "004",
+      "version": "4",
       "url": "https://olinkirk.land/worldmaker-distro/versions/002.zip",
       "date": 1615468004000
     }
   ],
-  "news": [{
-    "title": "No New News",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero volutpat sed cras. Iaculis eu non diam phasellus vestibulum lorem sed. Condimentum mattis pellentesque id nibh tortor id.",
-    "date": 1614605715000
-  }]
+  "news": [
+    {
+      "title": "No New News",
+      "content": [
+        {
+          "type": "body",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero volutpat sed cras. Iaculis eu non diam phasellus vestibulum lorem sed. Condimentum mattis pellentesque id nibh tortor id."
+        },
+        {
+          "type": "link",
+          "text": "Open Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "type": "video",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo.mp4"
+        },
+        {
+          "type": "image",
+          "caption": "Image Caption",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/img.png"
+        },
+        {
+          "type": "world",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/world.json"
+        },
+        {
+          "type": "engine",
+          "id": "2"
+        }
+      ],
+      "date": 1614605715000
+    },
+     {
+      "title": "News #2",
+      "content": [
+        {
+          "type": "body",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero volutpat sed cras. Iaculis eu non diam phasellus vestibulum lorem sed. Condimentum mattis pellentesque id nibh tortor id."
+        },
+        {
+          "type": "link",
+          "text": "Open Google",
+          "url": "https://www.google.com"
+        },
+        {
+          "type": "video",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo.mp4"
+        },
+        {
+          "type": "image",
+          "caption": "Image Caption",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/img.png"
+        },
+        {
+          "type": "world",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/world.json"
+        },
+        {
+          "type": "engine",
+          "id": "2"
+        }
+      ],
+      "date": 1614605815000
+    }
+  ]
 }
