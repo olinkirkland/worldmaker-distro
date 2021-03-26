@@ -66,18 +66,34 @@
           "text": "Open Google",
           "url": "https://www.google.com"
         },
+		{
+          "type": "text",
+          "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
+        },
         {
           "type": "video",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo.mp4"
+        },
+		{
+          "type": "text",
+          "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
         },
         {
           "type": "image",
           "caption": "Image Caption",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/img.png"
         },
+		{
+          "type": "text",
+          "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
+        },
         {
           "type": "world",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/world.json"
+        },
+		{
+          "type": "text",
+          "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
         },
         {
           "type": "engine",
