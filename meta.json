@@ -40,7 +40,7 @@
         },
         {
           "type": "image",
-          "caption": "Image Caption",
+          "text": "Image Caption",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/img.png"
         },
         {
@@ -80,7 +80,7 @@
         },
         {
           "type": "image",
-          "caption": "Image Caption",
+          "text": "Image Caption",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/img.png"
         },
 		{
