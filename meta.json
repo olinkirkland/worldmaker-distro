@@ -23,6 +23,26 @@
   ],
   "news": [
     {
+      "title": "News #1",
+      "content": [],
+      "date": 1614605713000
+    },
+    {
+      "title": "News #2",
+      "content": [],
+      "date": 1614604715000
+    },
+    {
+      "title": "News #3",
+      "content": [],
+      "date": 1614605415000
+    },
+    {
+      "title": "News #4",
+      "content": [],
+      "date": 1614602715000
+    },
+    {
       "title": "No New News",
       "content": [
         {
@@ -36,7 +56,7 @@
         },
         {
           "type": "video",
-		  "text": "Sample 3D Rendered Video",
+          "text": "Sample 3D Rendered Video",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo.mp4"
         },
         {
@@ -51,7 +71,7 @@
       ],
       "date": 1614605715000
     },
-     {
+    {
       "title": "News #2",
       "content": [
         {
@@ -60,10 +80,10 @@
         },
         {
           "type": "video",
-		  "text": "Windy Mobility Scooter Race",
+          "text": "Windy Mobility Scooter Race",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo2.flv"
         },
-		{
+        {
           "type": "text",
           "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
         }
