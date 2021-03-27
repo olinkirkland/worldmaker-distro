@@ -46,10 +46,6 @@
         {
           "type": "world",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/world.json"
-        },
-        {
-          "type": "engine",
-          "id": "2"
         }
       ],
       "date": 1614605715000
@@ -99,10 +95,6 @@
 		{
           "type": "text",
           "text": "Hello world. Pellentesque sit amet porttitor eget dolor morbi. Nunc sed blandit libero!"
-        },
-        {
-          "type": "engine",
-          "id": "2"
         },
 		{
           "type": "text",
