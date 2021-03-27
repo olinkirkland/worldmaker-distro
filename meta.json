@@ -36,6 +36,7 @@
         },
         {
           "type": "video",
+		  "text": "Sample 3D Rendered Video",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo.mp4"
         },
         {
@@ -59,6 +60,7 @@
         },
         {
           "type": "video",
+		  "text": "Windy Mobility Scooter Race",
           "url": "https://olinkirk.land/worldmaker-distro/news/1614605715000/foo2.flv"
         },
 		{
