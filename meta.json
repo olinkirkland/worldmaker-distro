@@ -3,24 +3,29 @@
     {
       "version": "1 Garnet",
       "url": "https://olinkirk.land/worldmaker-distro/versions/garnet.zip",
-      "date": 1617273588000
+      "date": 1617917478000
+    },
+	{
+      "version": "0 Worlds-Old",
+      "url": "https://olinkirk.land/worldmaker-distro/versions/worlds-old.zip",
+      "date": 1617917478000
     }
   ],
   "news": [
     {
-      "title": "News #1",
+      "title": "Predecessor Version Available",
       "content": [
         {
 		  "type": "text",
-		  "text": "Hello world."
+		  "text": "Download the predecessor version of Worldmaker now! "Worlds-Old" is a pretty basic world generator with layers that can be toggled and a handful of settings. Available now to play around with from the Engines page."
 		},
 		{
           "type": "image",
-          "text": "Image Caption",
-          "url": "https://olinkirk.land/worldmaker-distro/news/1617273588000/castle.png"
+          "text": "A screenshot of Worlds-Old",
+          "url": "https://olinkirk.land/worldmaker-distro/news/1617917478000/worlds-old.png"
         }
       ],
-      "date": 1617273588000
+      "date": 1617917478000
     }
   ]
 }
