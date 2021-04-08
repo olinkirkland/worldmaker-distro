@@ -17,13 +17,17 @@
       "content": [
         {
 		  "type": "text",
-		  "text": "Download the predecessor version of Worldmaker now! \"Worlds-Old\" is a pretty basic world generator with layers that can be toggled and a handful of settings. Available now to play around with from the Engines page."
+		  "text": "Download the predecessor version of Worldmaker now! \"Worlds-Old\" is a pretty basic world generator with layers that can be toggled and a handful of settings. It's available now to download from the Engine page."
 		},
 		{
           "type": "image",
           "text": "A screenshot of Worlds-Old",
           "url": "https://olinkirk.land/worldmaker-distro/news/1617917478000/worlds-old.png"
-        }
+        },
+		{
+		  "type": "text",
+		  "text": "Worlds-Old isn't compatible with the Worldmaker save system, so settings will be saved locally across any project created with the this predecessor version. To run it, simply create a project like you would for any other engine and open it with the Worlds-Old engine."
+		}
       ],
       "date": 1617917478000
     }
