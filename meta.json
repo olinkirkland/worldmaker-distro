@@ -1,12 +1,12 @@
 {
   "versions": [
     {
-      "version": "1 Garnet",
+      "version": "Garnet",
       "url": "https://olinkirk.land/worldmaker-distro/versions/garnet.zip",
       "date": 1617917478000
     },
 	{
-      "version": "0 Worlds-Old",
+      "version": "Worlds-Old",
       "url": "https://olinkirk.land/worldmaker-distro/versions/worlds-old.zip",
       "date": 1617917478000
     }
