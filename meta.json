@@ -1,9 +1,9 @@
 {
   "versions": [
     {
-      "version": "Garnet",
-      "url": "https://olinkirk.land/worldmaker-distro/versions/garnet.zip",
-      "date": 1619818258000
+      "version": "Worldmaker 0-1",
+      "url": "https://olinkirk.land/worldmaker-distro/versions/worldmaker-0-1.zip",
+      "date": 1629375618000
     },
 	{
       "version": "Worlds-Old",
@@ -12,8 +12,18 @@
     }
   ],
   "news": [
+  {
+      "title": "Version 0-1",
+      "content": [
+        {
+		  "type": "text",
+		  "text": "Download the current build (0-1)  of Worldmaker now! It's available now to download from the Engine page."
+		}
+      ],
+      "date": 1629375618000
+    },
     {
-      "title": "Predecessor Version Available",
+      "title": "Predecessor Version",
       "content": [
         {
 		  "type": "text",
